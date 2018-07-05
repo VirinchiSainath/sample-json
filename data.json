@@ -1,0 +1,28 @@
+{
+    "players":[
+    {
+        "id": 1,
+        "name": "LeBron James",
+        "team": "Lakers",
+        "city": "Los Angeles, CA"
+    },
+    {
+        "id": 2,
+        "name": "Stephen Curry",
+        "team": "Warriors",
+        "city": "Oakland, CA"
+    },
+    {
+        "id": 3,
+        "name": "James Harden",
+        "team": "Rockets",
+        "city": "Houston, TX"
+    },
+    {
+        "id": 4,
+        "name": "Kyrie Irving",
+        "team": "Celtics",
+        "city": "Boston, MA"
+    }
+    ]
+}
